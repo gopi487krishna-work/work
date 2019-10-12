@@ -1,1 +1,1 @@
-{"color": "orange", "cacheSeconds": 1800, "schemaVersion": 1, "message": "busy", "label": "work-status"}
+{"color": "green", "cacheSeconds": 1800, "schemaVersion": 1, "message": "free", "label": "work-status"}
